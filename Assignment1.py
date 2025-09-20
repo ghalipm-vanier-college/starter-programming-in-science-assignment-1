@@ -18,13 +18,13 @@ def check_number_sign(number):
 
 # Function 4: Right Triangle with Lower Left Right Angle
 # This function should return a string representing a right-angled triangle star shape with given number of rows>=3.
-def triangle_with_lower_left_right_angle(rows):
+def draw_triangle_with_lower_left_right_angle(rows):
     # TODO: Implement this function
     pass  # Replace with your code
 
 # Function 5: Right-Leaned Hollow Parallelogram Pattern
 # This function should print a right-leaned hollow parallelogram pattern with given size n>=3.
-def right_leaned_hollow_parallelogram(n):
+def draw_right_leaned_hollow_parallelogram(n):
     # TODO: Implement this function
     pass  # Replace with your code
 
@@ -52,9 +52,13 @@ def ph_state_check(ph_value):
     # TODO: Implement this function
     pass  # Replace with your code
 
+
 # Function 10: 1. Rock, 2. Paper, 3. Scissors Game
-# This function should take two integers for player and computer choices and return game outcome.
+# This function should take two integers: one for player and one for computer choices and returns game outcome.
 def rock_paper_scissors(player_choice, computer_choice):
     # TODO: Implement this function
     pass  # Replace with your code
 
+input rock_paper_scissors(1, 3)  output: "Player win!"
+input rock_paper_scissors(2, 2)  output: "Tie!"
+input rock_paper_scissors(1, 2)  output: "Player lose!"
