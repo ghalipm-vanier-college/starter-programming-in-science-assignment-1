@@ -17,13 +17,13 @@ def check_number_sign(number):
     pass  # Replace with your code
 
 # Function 4: Right Triangle with Lower Left Right Angle
-# This function should return a string representing a right-angled triangle star shape with given number of rows.
+# This function should return a string representing a right-angled triangle star shape with given number of rows>=3.
 def triangle_with_lower_left_right_angle(rows):
     # TODO: Implement this function
     pass  # Replace with your code
 
 # Function 5: Right-Leaned Hollow Parallelogram Pattern
-# This function should print a right-leaned hollow parallelogram pattern with given size n.
+# This function should print a right-leaned hollow parallelogram pattern with given size n>=3.
 def right_leaned_hollow_parallelogram(n):
     # TODO: Implement this function
     pass  # Replace with your code
