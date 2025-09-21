@@ -75,9 +75,9 @@ Write a function that determines the result of a Rock, Paper, Scissors round:
 - The function should take **two integer inputs**: the player's choice and the opponent's choice:
    - `1` for `"rock"`, `2` for `"paper"`, `3` for `"scissors"`
 - Return whether the player wins, loses, or ties (e.g., `"Player win!"`, `"Player lose!"`, or `"Tie!"`).
-   - input rock_paper_scissors(1, 3)  output: "Player win!"
-   - input rock_paper_scissors(2, 2)  output: "Tie!"
-   - input rock_paper_scissors(1, 2)  output: "Player lose!"
+   - input: rock_paper_scissors(1, 3)  output: "Player win!"
+   - input: rock_paper_scissors(2, 2)  output: "Tie!"
+   - input: rock_paper_scissors(1, 2)  output: "Player lose!"
 ---
 
 ### Run Command
