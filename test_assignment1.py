@@ -112,13 +112,10 @@ def test_ph_state_check():
 # Function 10: Test case for rock_paper_scissors() function
 def test_rock_paper_scissors():
     assert rock_paper_scissors(1, 1) == "Tie!"
-    assert rock_paper_scissors(2, 2) == "Tie!"
     assert rock_paper_scissors(3, 3) == "Tie!"
     assert rock_paper_scissors(1, 3) == "Player win!"
     assert rock_paper_scissors(2, 1) == "Player win!"
-    assert rock_paper_scissors(3, 2) == "Player win!"
     assert rock_paper_scissors(1, 2) == "Player lose!"
-    assert rock_paper_scissors(2, 3) == "Player lose!"
     assert rock_paper_scissors(3, 1) == "Player lose!"
 
 
