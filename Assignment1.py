@@ -59,6 +59,3 @@ def rock_paper_scissors(player_choice, computer_choice):
     # TODO: Implement this function
     pass  # Replace with your code
 
-input rock_paper_scissors(1, 3)  output: "Player win!"
-input rock_paper_scissors(2, 2)  output: "Tie!"
-input rock_paper_scissors(1, 2)  output: "Player lose!"
